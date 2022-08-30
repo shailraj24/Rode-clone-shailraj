@@ -14,10 +14,10 @@
 
 ## Deployed link
 
-- [Rode-clone-shailraj](https://starbucks-clone-shailraj.netlify.app/)
+- [Rode-clone-shailraj](https://rode-clone-shailraj.netlify.app/)
 
 
-## Overview
+## Overview of site
 
 <br>
 
